@@ -30,6 +30,14 @@ Attacks used to generated Physical Adversarila Examples
 -  2 vCPUs
 - Logitech c922x Webcam
 
+## Classifer Architecture
+
+![Classifer A Architecture](classifier_a.png)
+
+## Defense GAN
+
+![Defnese GAN Setup](defense_gan_setup.png)
+
 
 
 
