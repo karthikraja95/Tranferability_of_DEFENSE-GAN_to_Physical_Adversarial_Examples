@@ -19,9 +19,18 @@ bringing to question the need for additional defenses.
 
 Attacks used to generated Physical Adversarila Examples
 
-- Fast Gradient Sign Method (FGSM) - ![FGSM Code](https://github.com/karthikraja95/Tranferability_of_DEFENSE-GAN_to_Physical_Adversarial_Examples/blob/master/FGSM_automated.ipynb)
-- Carlini and Wagner (CW) - ![CW Code](https://github.com/karthikraja95/Tranferability_of_DEFENSE-GAN_to_Physical_Adversarial_Examples/blob/master/CW_automated.ipynb)
-- DeepFool - ![DeepFool Code](https://github.com/karthikraja95/Tranferability_of_DEFENSE-GAN_to_Physical_Adversarial_Examples/blob/master/DeepFool.ipynb)
+- Fast Gradient Sign Method (FGSM) - [FGSM Code](https://github.com/karthikraja95/Tranferability_of_DEFENSE-GAN_to_Physical_Adversarial_Examples/blob/master/FGSM_automated.ipynb)
+- Carlini and Wagner (CW) - [CW Code](https://github.com/karthikraja95/Tranferability_of_DEFENSE-GAN_to_Physical_Adversarial_Examples/blob/master/CW_automated.ipynb)
+- DeepFool - [DeepFool Code](https://github.com/karthikraja95/Tranferability_of_DEFENSE-GAN_to_Physical_Adversarial_Examples/blob/master/DeepFool.ipynb)
+
+## Experimentail Setup
+
+- NVidia Tesla P4 -  8GB DDR5 GPU Memory 
+- 13 GB of RAM 
+-  2 vCPUs
+- Logitech c922x Webcam
+
+
 
 
 
